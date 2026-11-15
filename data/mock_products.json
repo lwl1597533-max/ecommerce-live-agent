@@ -1,0 +1,526 @@
+{
+  "products": [
+    {
+      "product_id": "SKU001",
+      "name": "保湿面霜 样例1",
+      "category": "美妆",
+      "price": 99,
+      "original_price": null,
+      "specs": {
+        "容量": "50g",
+        "产地": "上海"
+      },
+      "ingredients": [
+        "甘油",
+        "透明质酸"
+      ],
+      "description": "日常保湿护理，使用前建议局部试用。 本商品仅为开发测试模拟数据。",
+      "highlights": [
+        "容量：50g",
+        "产地：上海"
+      ],
+      "reviews": [],
+      "stock": 100,
+      "promo": null,
+      "target_audience": "有相关品类需求的消费者"
+    },
+    {
+      "product_id": "SKU002",
+      "name": "保湿面霜 样例2",
+      "category": "美妆",
+      "price": 104,
+      "original_price": null,
+      "specs": {
+        "容量": "50g",
+        "产地": "上海"
+      },
+      "ingredients": [
+        "甘油",
+        "透明质酸"
+      ],
+      "description": "日常保湿护理，使用前建议局部试用。 本商品仅为开发测试模拟数据。",
+      "highlights": [
+        "容量：50g",
+        "产地：上海"
+      ],
+      "reviews": [],
+      "stock": 120,
+      "promo": null,
+      "target_audience": "有相关品类需求的消费者"
+    },
+    {
+      "product_id": "SKU003",
+      "name": "保湿面霜 样例3",
+      "category": "美妆",
+      "price": 109,
+      "original_price": null,
+      "specs": {
+        "容量": "50g",
+        "产地": "上海"
+      },
+      "ingredients": [
+        "甘油",
+        "透明质酸"
+      ],
+      "description": "日常保湿护理，使用前建议局部试用。 本商品仅为开发测试模拟数据。",
+      "highlights": [
+        "容量：50g",
+        "产地：上海"
+      ],
+      "reviews": [],
+      "stock": 140,
+      "promo": null,
+      "target_audience": "有相关品类需求的消费者"
+    },
+    {
+      "product_id": "SKU004",
+      "name": "保湿面霜 样例4",
+      "category": "美妆",
+      "price": 114,
+      "original_price": null,
+      "specs": {
+        "容量": "50g",
+        "产地": "上海"
+      },
+      "ingredients": [
+        "甘油",
+        "透明质酸"
+      ],
+      "description": "日常保湿护理，使用前建议局部试用。 本商品仅为开发测试模拟数据。",
+      "highlights": [
+        "容量：50g",
+        "产地：上海"
+      ],
+      "reviews": [],
+      "stock": 160,
+      "promo": null,
+      "target_audience": "有相关品类需求的消费者"
+    },
+    {
+      "product_id": "SKU005",
+      "name": "保湿面霜 样例5",
+      "category": "美妆",
+      "price": 119,
+      "original_price": null,
+      "specs": {
+        "容量": "50g",
+        "产地": "上海"
+      },
+      "ingredients": [
+        "甘油",
+        "透明质酸"
+      ],
+      "description": "日常保湿护理，使用前建议局部试用。 本商品仅为开发测试模拟数据。",
+      "highlights": [
+        "容量：50g",
+        "产地：上海"
+      ],
+      "reviews": [],
+      "stock": 180,
+      "promo": null,
+      "target_audience": "有相关品类需求的消费者"
+    },
+    {
+      "product_id": "SKU006",
+      "name": "保湿面霜 样例6",
+      "category": "美妆",
+      "price": 124,
+      "original_price": null,
+      "specs": {
+        "容量": "50g",
+        "产地": "上海"
+      },
+      "ingredients": [
+        "甘油",
+        "透明质酸"
+      ],
+      "description": "日常保湿护理，使用前建议局部试用。 本商品仅为开发测试模拟数据。",
+      "highlights": [
+        "容量：50g",
+        "产地：上海"
+      ],
+      "reviews": [],
+      "stock": 200,
+      "promo": null,
+      "target_audience": "有相关品类需求的消费者"
+    },
+    {
+      "product_id": "SKU007",
+      "name": "燕麦片 样例1",
+      "category": "食品",
+      "price": 29.9,
+      "original_price": null,
+      "specs": {
+        "净含量": "500g",
+        "配料": "燕麦"
+      },
+      "ingredients": null,
+      "description": "冲泡食用，具体过敏原和营养信息以包装为准。 本商品仅为开发测试模拟数据。",
+      "highlights": [
+        "净含量：500g",
+        "配料：燕麦"
+      ],
+      "reviews": [],
+      "stock": 100,
+      "promo": null,
+      "target_audience": "有相关品类需求的消费者"
+    },
+    {
+      "product_id": "SKU008",
+      "name": "燕麦片 样例2",
+      "category": "食品",
+      "price": 34.9,
+      "original_price": null,
+      "specs": {
+        "净含量": "500g",
+        "配料": "燕麦"
+      },
+      "ingredients": null,
+      "description": "冲泡食用，具体过敏原和营养信息以包装为准。 本商品仅为开发测试模拟数据。",
+      "highlights": [
+        "净含量：500g",
+        "配料：燕麦"
+      ],
+      "reviews": [],
+      "stock": 120,
+      "promo": null,
+      "target_audience": "有相关品类需求的消费者"
+    },
+    {
+      "product_id": "SKU009",
+      "name": "燕麦片 样例3",
+      "category": "食品",
+      "price": 39.9,
+      "original_price": null,
+      "specs": {
+        "净含量": "500g",
+        "配料": "燕麦"
+      },
+      "ingredients": null,
+      "description": "冲泡食用，具体过敏原和营养信息以包装为准。 本商品仅为开发测试模拟数据。",
+      "highlights": [
+        "净含量：500g",
+        "配料：燕麦"
+      ],
+      "reviews": [],
+      "stock": 140,
+      "promo": null,
+      "target_audience": "有相关品类需求的消费者"
+    },
+    {
+      "product_id": "SKU010",
+      "name": "燕麦片 样例4",
+      "category": "食品",
+      "price": 44.9,
+      "original_price": null,
+      "specs": {
+        "净含量": "500g",
+        "配料": "燕麦"
+      },
+      "ingredients": null,
+      "description": "冲泡食用，具体过敏原和营养信息以包装为准。 本商品仅为开发测试模拟数据。",
+      "highlights": [
+        "净含量：500g",
+        "配料：燕麦"
+      ],
+      "reviews": [],
+      "stock": 160,
+      "promo": null,
+      "target_audience": "有相关品类需求的消费者"
+    },
+    {
+      "product_id": "SKU011",
+      "name": "燕麦片 样例5",
+      "category": "食品",
+      "price": 49.9,
+      "original_price": null,
+      "specs": {
+        "净含量": "500g",
+        "配料": "燕麦"
+      },
+      "ingredients": null,
+      "description": "冲泡食用，具体过敏原和营养信息以包装为准。 本商品仅为开发测试模拟数据。",
+      "highlights": [
+        "净含量：500g",
+        "配料：燕麦"
+      ],
+      "reviews": [],
+      "stock": 180,
+      "promo": null,
+      "target_audience": "有相关品类需求的消费者"
+    },
+    {
+      "product_id": "SKU012",
+      "name": "燕麦片 样例6",
+      "category": "食品",
+      "price": 54.9,
+      "original_price": null,
+      "specs": {
+        "净含量": "500g",
+        "配料": "燕麦"
+      },
+      "ingredients": null,
+      "description": "冲泡食用，具体过敏原和营养信息以包装为准。 本商品仅为开发测试模拟数据。",
+      "highlights": [
+        "净含量：500g",
+        "配料：燕麦"
+      ],
+      "reviews": [],
+      "stock": 200,
+      "promo": null,
+      "target_audience": "有相关品类需求的消费者"
+    },
+    {
+      "product_id": "SKU013",
+      "name": "蓝牙耳机 样例1",
+      "category": "3C",
+      "price": 199,
+      "original_price": null,
+      "specs": {
+        "蓝牙版本": "5.3",
+        "重量": "5g/只"
+      },
+      "ingredients": null,
+      "description": "适合日常听音乐和通话，实际体验受设备和环境影响。 本商品仅为开发测试模拟数据。",
+      "highlights": [
+        "蓝牙版本：5.3",
+        "重量：5g/只"
+      ],
+      "reviews": [],
+      "stock": 100,
+      "promo": null,
+      "target_audience": "有相关品类需求的消费者"
+    },
+    {
+      "product_id": "SKU014",
+      "name": "蓝牙耳机 样例2",
+      "category": "3C",
+      "price": 204,
+      "original_price": null,
+      "specs": {
+        "蓝牙版本": "5.3",
+        "重量": "5g/只"
+      },
+      "ingredients": null,
+      "description": "适合日常听音乐和通话，实际体验受设备和环境影响。 本商品仅为开发测试模拟数据。",
+      "highlights": [
+        "蓝牙版本：5.3",
+        "重量：5g/只"
+      ],
+      "reviews": [],
+      "stock": 120,
+      "promo": null,
+      "target_audience": "有相关品类需求的消费者"
+    },
+    {
+      "product_id": "SKU015",
+      "name": "蓝牙耳机 样例3",
+      "category": "3C",
+      "price": 209,
+      "original_price": null,
+      "specs": {
+        "蓝牙版本": "5.3",
+        "重量": "5g/只"
+      },
+      "ingredients": null,
+      "description": "适合日常听音乐和通话，实际体验受设备和环境影响。 本商品仅为开发测试模拟数据。",
+      "highlights": [
+        "蓝牙版本：5.3",
+        "重量：5g/只"
+      ],
+      "reviews": [],
+      "stock": 140,
+      "promo": null,
+      "target_audience": "有相关品类需求的消费者"
+    },
+    {
+      "product_id": "SKU016",
+      "name": "蓝牙耳机 样例4",
+      "category": "3C",
+      "price": 214,
+      "original_price": null,
+      "specs": {
+        "蓝牙版本": "5.3",
+        "重量": "5g/只"
+      },
+      "ingredients": null,
+      "description": "适合日常听音乐和通话，实际体验受设备和环境影响。 本商品仅为开发测试模拟数据。",
+      "highlights": [
+        "蓝牙版本：5.3",
+        "重量：5g/只"
+      ],
+      "reviews": [],
+      "stock": 160,
+      "promo": null,
+      "target_audience": "有相关品类需求的消费者"
+    },
+    {
+      "product_id": "SKU017",
+      "name": "蓝牙耳机 样例5",
+      "category": "3C",
+      "price": 219,
+      "original_price": null,
+      "specs": {
+        "蓝牙版本": "5.3",
+        "重量": "5g/只"
+      },
+      "ingredients": null,
+      "description": "适合日常听音乐和通话，实际体验受设备和环境影响。 本商品仅为开发测试模拟数据。",
+      "highlights": [
+        "蓝牙版本：5.3",
+        "重量：5g/只"
+      ],
+      "reviews": [],
+      "stock": 180,
+      "promo": null,
+      "target_audience": "有相关品类需求的消费者"
+    },
+    {
+      "product_id": "SKU018",
+      "name": "蓝牙耳机 样例6",
+      "category": "3C",
+      "price": 224,
+      "original_price": null,
+      "specs": {
+        "蓝牙版本": "5.3",
+        "重量": "5g/只"
+      },
+      "ingredients": null,
+      "description": "适合日常听音乐和通话，实际体验受设备和环境影响。 本商品仅为开发测试模拟数据。",
+      "highlights": [
+        "蓝牙版本：5.3",
+        "重量：5g/只"
+      ],
+      "reviews": [],
+      "stock": 200,
+      "promo": null,
+      "target_audience": "有相关品类需求的消费者"
+    },
+    {
+      "product_id": "SKU019",
+      "name": "收纳盒 样例1",
+      "category": "家居",
+      "price": 39,
+      "original_price": null,
+      "specs": {
+        "材质": "PP",
+        "容量": "10L"
+      },
+      "ingredients": null,
+      "description": "适合整理桌面和衣柜物品，请根据实际空间选择。 本商品仅为开发测试模拟数据。",
+      "highlights": [
+        "材质：PP",
+        "容量：10L"
+      ],
+      "reviews": [],
+      "stock": 100,
+      "promo": null,
+      "target_audience": "有相关品类需求的消费者"
+    },
+    {
+      "product_id": "SKU020",
+      "name": "收纳盒 样例2",
+      "category": "家居",
+      "price": 44,
+      "original_price": null,
+      "specs": {
+        "材质": "PP",
+        "容量": "10L"
+      },
+      "ingredients": null,
+      "description": "适合整理桌面和衣柜物品，请根据实际空间选择。 本商品仅为开发测试模拟数据。",
+      "highlights": [
+        "材质：PP",
+        "容量：10L"
+      ],
+      "reviews": [],
+      "stock": 120,
+      "promo": null,
+      "target_audience": "有相关品类需求的消费者"
+    },
+    {
+      "product_id": "SKU021",
+      "name": "收纳盒 样例3",
+      "category": "家居",
+      "price": 49,
+      "original_price": null,
+      "specs": {
+        "材质": "PP",
+        "容量": "10L"
+      },
+      "ingredients": null,
+      "description": "适合整理桌面和衣柜物品，请根据实际空间选择。 本商品仅为开发测试模拟数据。",
+      "highlights": [
+        "材质：PP",
+        "容量：10L"
+      ],
+      "reviews": [],
+      "stock": 140,
+      "promo": null,
+      "target_audience": "有相关品类需求的消费者"
+    },
+    {
+      "product_id": "SKU022",
+      "name": "收纳盒 样例4",
+      "category": "家居",
+      "price": 54,
+      "original_price": null,
+      "specs": {
+        "材质": "PP",
+        "容量": "10L"
+      },
+      "ingredients": null,
+      "description": "适合整理桌面和衣柜物品，请根据实际空间选择。 本商品仅为开发测试模拟数据。",
+      "highlights": [
+        "材质：PP",
+        "容量：10L"
+      ],
+      "reviews": [],
+      "stock": 160,
+      "promo": null,
+      "target_audience": "有相关品类需求的消费者"
+    },
+    {
+      "product_id": "SKU023",
+      "name": "收纳盒 样例5",
+      "category": "家居",
+      "price": 59,
+      "original_price": null,
+      "specs": {
+        "材质": "PP",
+        "容量": "10L"
+      },
+      "ingredients": null,
+      "description": "适合整理桌面和衣柜物品，请根据实际空间选择。 本商品仅为开发测试模拟数据。",
+      "highlights": [
+        "材质：PP",
+        "容量：10L"
+      ],
+      "reviews": [],
+      "stock": 180,
+      "promo": null,
+      "target_audience": "有相关品类需求的消费者"
+    },
+    {
+      "product_id": "SKU024",
+      "name": "收纳盒 样例6",
+      "category": "家居",
+      "price": 64,
+      "original_price": null,
+      "specs": {
+        "材质": "PP",
+        "容量": "10L"
+      },
+      "ingredients": null,
+      "description": "适合整理桌面和衣柜物品，请根据实际空间选择。 本商品仅为开发测试模拟数据。",
+      "highlights": [
+        "材质：PP",
+        "容量：10L"
+      ],
+      "reviews": [],
+      "stock": 200,
+      "promo": null,
+      "target_audience": "有相关品类需求的消费者"
+    }
+  ]
+}
